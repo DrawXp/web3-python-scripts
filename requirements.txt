@@ -3,3 +3,7 @@ python-dotenv>=1.0.0
 websocket-client>=1.6.0
 requests>=2.31.0
 eth-abi>=4.0.0
+cosmospy>=6.0.0
+cosmospy-protobuf>=0.0.1
+ecdsa>=0.18.0
+protobuf>=4.0.0
