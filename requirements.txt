@@ -7,3 +7,4 @@ cosmospy>=6.0.0
 cosmospy-protobuf>=0.0.1
 ecdsa>=0.18.0
 protobuf>=4.0.0
+substrate-interface>=1.7.0
